@@ -1,4 +1,6 @@
 # Meals
 A mini cookbook made in Dart/Flutter by me and is fully functional.
 <br>
-![Screenshot](https://github.com/DarkSaibot/Calculator/assets/86971123/823c72fa-64f0-4eaf-9cc1-eef5e4a2083f)
+<br>
+![Screenshot_2](https://github.com/DarkSaibot/Meals/assets/86971123/9741242a-d7c5-4cc6-af94-1039aee047f8)
+
